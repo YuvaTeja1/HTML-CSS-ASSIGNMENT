@@ -1,7 +1,34 @@
 /* Our CSS file. */
-
-
-.container, .content {
-width: 100%;
-height: 100%;
+.container1 {
+    border: 0px solid black;
+}
+.row1 {
+    background-color: aqua;
+    width: 50%;
+    float: left;
+    height: 400px;
+}
+.col1 img {
+    background-color: bisque;
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+.row2 img {
+    background-color: antiquewhite;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+.clo2 {
+    background-color: brown;
+    width: 50%;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+.clo2 h1 {
+    text-align: center;
+    color: blue;
+    margin-top: 200px;
 }
